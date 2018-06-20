@@ -1,10 +1,9 @@
 ### Introduction ###
 
 Today we investigate the relation between weather and subway ridership
-in New York City in May 2011. All data and code is available for
-download from the git repository [\[gitRepo\]][&gitRepo].
+in New York City in may 2018.
 
-### Wrangling the Data ###
+###  Data ###
 
 The subway data is a sample of the MTA New York City Subway dataset
 that includes hourly entries and exits at the turnstiles of different
